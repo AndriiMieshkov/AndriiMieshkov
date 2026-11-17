@@ -2,7 +2,7 @@
 
 👨‍💻 **Software Engineer** | Full-Stack | HTML5 Games | 📍 Kraków, Poland
 
-🌐 **Portfolio:** [andriimieshkov.github.io](https://andriimieshkov.github.io/). There's a playable ad on it that you can play right in the browser 🎮
+🌐 **Portfolio:** [andriimieshkov.github.io](https://andriimieshkov.github.io/).
 
 🟢 *Open to new opportunities: frontend or full-stack roles in Kraków or remote.*
 
